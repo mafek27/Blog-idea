@@ -19,7 +19,7 @@ body
     color: white;
     font-weight: bold;
     margin: 0;
-    padding: 0.5em;
+    padding: 1rem;
 }
 #cabecera #tagline {
     font-weight: bold;
@@ -32,10 +32,11 @@ body
     width: 20px;
     vertical-align: middle;
 }
-#footer {
-    background-color: #33A;
+#footer{
+    background: #33A;
     text-align: center;
 }
-#footer p {
-    color: white;
+#footer p{
+    color: azure;
+    padding: 0.5rem;
 }
