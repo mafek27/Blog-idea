@@ -28,3 +28,10 @@ body
 #post {
     padding: 1em;
 }
+#footer {
+    background:rgb(53, 11, 92);
+    text-align: center;
+}
+#footer p{
+    color: azure;
+}
