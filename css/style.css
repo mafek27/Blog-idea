@@ -28,3 +28,14 @@ body
 #post {
     padding: 1em;
 }
+#cabecera #logo {
+    width: 20px;
+    vertical-align: middle;
+}
+#footer {
+    background-color: #33A;
+    text-align: center;
+}
+#footer p {
+    color: white;
+}
